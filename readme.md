@@ -32,6 +32,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -181,7 +183,7 @@ You can provide multiple comma-separated values in bg_color option to render a g
 
 #### Stats Card Exclusive Options:
 
-- `hide` - Hides the specified items from stats _(Comma-separated values)_
+- `hide` - Hides the [specified items](#hiding-individual-stats) from stats _(Comma-separated values)_
 - `hide_title` - _(boolean)_
 - `hide_rank` - _(boolean)_ hides the rank and automatically resizes the card width
 - `show_icons` - _(boolean)_
